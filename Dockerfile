@@ -1,4 +1,4 @@
-FROM python:3.9.0-slim as base                                                                                                
+FROM python:3.9.1-slim as base                                                                                                
                                                                                                                               
 FROM base as builder                                                                                                          
                                                                                                                               
